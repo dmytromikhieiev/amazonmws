@@ -1,3 +1,13 @@
+Installation:<br>
+Add to composer.json repositories
+<code>
+        {
+            "type": "vcs",
+            "url": "https://github.com/dmytromikhieiev/amazonmws.git"
+        }
+</code><br>
+<code>composer require dmytromikhieiev/amazonmws </code>
+
 Enter your credentials
 ----------------------
 
